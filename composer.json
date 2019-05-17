@@ -1,0 +1,25 @@
+{
+    "name": "kids-earn-money/how-kids-earn-money-online-for-free",
+    "description": "How Kids Earn Money Online With Social Media Sharing Kids Earn Cash when they turn their social media profiles into money. Kids Earn Cash today by promoting on social media and earning thousands a month. Influencers Cash helps avid social media users monetize their profiles to start making money from their social media usage.",
+    "homepage": "https://github.com/kids-earn-money",
+	"keywords": ["how to make money online for free","make money online fast","make money downloading apps","how to make money online for beginners","how to make money online without paying anything","make money fast today","make money online paypal","earn money online apps"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "LEARN HOW KIDS EARN MONEY ONLINE FOR FREE",
+            "homepage": "https://make.cashonline.biz/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/dom-crawler": "^3.3",
+        "symfony/css-selector": "^3.3"
+    },
+    "minimum-stability": "dev"
+}
